@@ -3,17 +3,17 @@
 </p>
 
 <h1 align="center">Hi, I'm Thirumal T 👋</h1>
-<h3 align="center">Software Development Engineer | Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer (MERN) | AI & RAG Builder | Aspiring SDE</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pre-Final Year **B.Tech CSBS Student**
-- 💡 Aspiring **Product-Based Software Engineer**
-- 🧩 Strong foundation in **Java, DSA, and OOP**
-- 🌐 Hands-on experience with **MERN Stack**
-- 🚀 Building real-world projects with clean, scalable architecture
-- 🌱 Currently learning **Backend Scalability, System Design basics & AI integration**
+- 🎓 Pre-Final Year B.Tech CSBS Student  
+- 💡 Aspiring Software Development Engineer (SDE)  
+- 🧠 Strong foundation in Java, DSA & Object-Oriented Programming  
+- 🌐 Full Stack Developer with MERN stack experience  
+- 🤖 Building AI-powered applications using RAG & LLM integration  
+- 📈 Consistent problem solver with 700+ coding problems across platforms  
 
 ---
 
@@ -21,54 +21,77 @@
 
 ### Languages
 - Java
+- JavaScript
 
-### Web Technologies
-- HTML, CSS, JavaScript, Tailwind CSS
+### Frontend
+- React.js
+- Tailwind CSS
+- HTML, CSS
 
-### Frameworks & Libraries
-- React.js, Node.js, Express.js
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
 
-### Databases
+### Database
 - MongoDB
+- SQL
+
+### AI & RAG
+- LangChain
+- LLaMA (Groq API)
+- MiniLM (Embeddings)
+- MongoDB Vector Search
 
 ### Tools
-- Git, GitHub, VS Code
+- Git
+- GitHub
+- Postman
+- VS Code
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧠 AI-Powered Career Intelligence Platform *(Ongoing)*
-- Resume upload and automated job-role matching
-- Skill-gap identification with role-based recommendations
-- REST API based backend using Node.js and Express
-- MongoDB for scalable data storage
-- AI-powered chat assistant and study-plan recommendations (in progress)
+### 🧠 DocNow AI – AI Health Query Assistant (RAG)
+- Built multilingual medical assistant using Retrieval-Augmented Generation  
+- Integrated MongoDB Vector Search for semantic retrieval  
+- Used LangChain + LLaMA (Groq API) for contextual AI responses  
+- Implemented MiniLM embeddings for similarity search  
 
-### 📝 NoteApp (MERN Stack)
-- JWT-based authentication and authorization
-- RESTful APIs for CRUD operations
-- MongoDB for persistent data storage
-- Responsive UI built with React.js
-
-### 🎬 Netflix Clone
-- React-based UI for browsing movies
-- Integrated TMDB API for movie metadata
-- Trailer playback functionality using external video references
+🔗 Repo: https://github.com/Thirumal5/ragchatbot  
 
 ---
 
-## 🧠 Problem Solving & Coding
-- Solved **400+ DSA problems** on LeetCode
-- Regular **CodeChef contest participant**
-- Strong consistency in problem solving and algorithmic thinking
+### 🎯 AI Career Intelligence Platform
+- Resume upload & AI-based job-role matching  
+- Skill-gap analysis & study-plan recommendation  
+- JWT-based authentication with secure REST APIs  
+- Integrated Grok LLM for personalized insights  
+
+🔗 Repo: https://github.com/Thirumal5/NovaAi  
+🌐 Live: https://carrerloopai.onrender.com/
 
 ---
 
-## 🏆 Achievements
-- Maintained long-term problem-solving consistency on LeetCode
-- Top 100 teams in a college-level hackathon
-- Actively involved in peer learning and coding discussions
+### 📝 NoteApp – MERN Stack
+- Secure login/register using JWT  
+- CRUD operations with protected routes  
+- Structured backend architecture with Express  
+- Responsive UI using React Hooks  
+
+🔗 Repo: https://github.com/Thirumal5/NoteHub  
+
+---
+
+## 🧠 Competitive Programming
+
+- LeetCode Rating: **1482**
+- 303+ Problems Solved  
+- CodeChef Rating: **1403**
+- 700+ Problems Solved  
+- SQL Silver Badge – HackerRank  
 
 ---
 
@@ -96,4 +119,4 @@
 
 ---
 
-⭐ *Code. Learn. Build. Improve.*
+⭐ Code. Build. Learn. Improve.
