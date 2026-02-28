@@ -13,11 +13,11 @@
 ## 🚀 About Me
 
 - 🎓 Pre-Final Year B.Tech CSBS Student  
-- 💡 Aspiring Software Development Engineer  
+- 💡 Aspiring Software Development Engineer (SDE)  
 - 🧠 Strong in Java, DSA & OOP  
 - 🌐 MERN Stack Developer  
-- 🤖 Building AI-powered apps using RAG & LLMs  
-- 📈 300+ Coding Problems Solved  
+- 🤖 Building AI-powered applications using RAG & LLMs  
+- 📈 1000+ Coding Problems Solved Across Platforms  
 
 ---
 
@@ -48,19 +48,19 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 DocNow AI – Health Query Assistant
-🔹 RAG-based multilingual medical assistant  
-🔹 MongoDB Vector Search + LangChain + LLaMA  
-🔹 Semantic search with MiniLM  
+### 🧠 DocNow AI – AI Health Query Assistant
+- RAG-based multilingual medical assistant  
+- MongoDB Vector Search + LangChain + LLaMA  
+- Semantic retrieval using MiniLM embeddings  
 
 🔗 [GitHub Repo](https://github.com/Thirumal5/ragchatbot)
 
 ---
 
 ### 🎯 AI Career Intelligence Platform
-🔹 Resume upload & AI job-role matching  
-🔹 Skill-gap detection + Study-plan generation  
-🔹 JWT authentication + Grok LLM integration  
+- Resume upload & AI job-role matching  
+- Skill-gap detection + Study-plan generation  
+- JWT authentication + Grok LLM integration  
 
 🔗 [GitHub Repo](https://github.com/Thirumal5/NovaAi)  
 🌐 [Live Demo](https://carrerloopai.onrender.com/)
@@ -68,9 +68,9 @@
 ---
 
 ### 📝 NoteApp – MERN Stack
-🔹 JWT authentication  
-🔹 CRUD operations + Protected routes  
-🔹 Responsive React UI  
+- JWT authentication  
+- CRUD operations + Protected routes  
+- Responsive React UI  
 
 🔗 [GitHub Repo](https://github.com/Thirumal5/NoteHub)
 
@@ -78,10 +78,10 @@
 
 ## 🏆 Competitive Programming
 
-🔥 LeetCode Rating: **1482**  
-🔥 CodeChef Rating: **1403**  
-🔥 1000+ Problems Solved Across Platforms  
-🔥 SQL Silver Badge – HackerRank  
+- 🔥 LeetCode Rating: **1482**
+- 🔥 CodeChef Rating: **1403**
+- 🔥 1000+ Problems Solved
+- 🔥 SQL Silver Badge – HackerRank  
 
 ---
 
@@ -90,6 +90,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thirumal5&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thirumal5&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thirumal5&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
