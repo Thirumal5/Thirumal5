@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Thiru2004-cloud/Thiru2004-cloud/blob/main/Banner.jpg?raw=true" width="100%" />
+  <img src="https://github.com/Thiru2004-cloud/Thiru2004-cloud/blob/main/Thirubanner.png?raw=true" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Thirumal T</h1>
