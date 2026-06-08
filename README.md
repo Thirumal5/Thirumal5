@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thirumal5/Thirumal5/main/Thirubanner.png" width="100%" />
+  <img src="https://github.com/Thirumal5/Thirumal5/blob/main/Designer%20(1).png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Thirumal T</h1>
