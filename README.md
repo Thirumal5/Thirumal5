@@ -5,19 +5,19 @@
 <h1 align="center">Hi 👋 I'm Thirumal T</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+%26+RAG+Builder;Aspiring+Software+Development+Engineer;DSA+Enthusiast+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI+%26+LLM+Builder;Multi-Agent+Systems;Aspiring+SDE;450%2B+DSA+Problems+Solved+%F0%9F%94%A5" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pre-Final Year B.Tech CSBS Student  
-- 💡 Aspiring Software Development Engineer (SDE)  
-- 🧠 Strong in Java, DSA & OOP  
-- 🌐 MERN Stack Developer  
-- 🤖 Building AI-powered applications using RAG & LLMs  
-- 📈 1000+ Coding Problems Solved Across Platforms  
+- 🎓 Pre-Final Year B.Tech CSBS Student @ KIT Coimbatore
+- 💡 Aspiring Software Development Engineer (SDE)
+- 🌐 Full Stack Developer — MERN Stack
+- 🤖 Building AI-powered apps using LLMs & Multi-Agent systems
+- 🔥 450+ DSA Problems Solved across LeetCode & GFG
+- 🚀 Passionate about shipping real-world products
 
 ---
 
@@ -30,47 +30,58 @@
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI & RAG
-![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
-![LLaMA](https://img.shields.io/badge/LLaMA-purple?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/MongoDB-Vector_Search-green?style=for-the-badge)
+### 🤖 AI & LLM
+![Groq API](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-8A2BE2?style=for-the-badge)
+![Multi Agent](https://img.shields.io/badge/Multi_Agent_Design-00BFFF?style=for-the-badge)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 DocNow AI – AI Health Query Assistant
-- RAG-based multilingual medical assistant  
-- MongoDB Vector Search + LangChain + LLaMA  
-- Semantic retrieval using MiniLM embeddings  
+### 🧠 TutorGen-AI — AI Coding Mentor System
+- Multi-agent architecture (Generator, Reviewer, Coach, Chat)
+- Auto-generates DSA problems & evaluates code quality
+- Role-based hierarchy — Admin → Dean → HOD → Mentor → Students
+- Bulk CSV onboarding for 100+ students
 
-🔗 [GitHub Repo](https://github.com/Thirumal5/ragchatbot)
+🔗 [GitHub Repo](https://github.com/Thirumal5/TutorGen-AI)
 
 ---
 
 ### 🎯 AI Career Intelligence Platform
-- Resume upload & AI job-role matching  
-- Skill-gap detection + Study-plan generation  
-- JWT authentication + Grok LLM integration  
+- LLM-powered resume scoring & job-fit recommendations
+- Skill-gap detection + personalized study-plan generation
+- JWT authentication + secure REST APIs
 
-🔗 [GitHub Repo](https://github.com/Thirumal5/NovaAi)  
-🌐 [Live Demo](https://carrerloopai.onrender.com/)
+🔗 [GitHub Repo](https://github.com/Thirumal5/NovaAi) | 🌐 [Live Demo](https://carrerloopai.onrender.com/)
 
 ---
 
-### 📝 NoteApp – MERN Stack
-- JWT authentication  
-- CRUD operations + Protected routes  
-- Responsive React UI  
+### 📝 NoteApp — MERN Stack
+- JWT authentication
+- CRUD operations + Protected routes
+- Responsive React UI
 
 🔗 [GitHub Repo](https://github.com/Thirumal5/NoteHub)
 
@@ -80,8 +91,9 @@
 
 - 🔥 LeetCode Rating: **1482**
 - 🔥 CodeChef Rating: **1403**
-- 🔥 1000+ Problems Solved
-- 🔥 SQL Silver Badge – HackerRank  
+- 🔥 450+ DSA Problems Solved
+- 🔥 LeetCode 100 Days Badge (2025)
+- 🔥 SQL Silver Badge — HackerRank
 
 ---
 
@@ -106,13 +118,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/thirumal25">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kit27.csbs58@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ **Code. Build. Learn. Improve.**
+⭐ **Code. Build. Ship. Repeat.**
